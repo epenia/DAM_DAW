@@ -1,0 +1,1 @@
+Para importar el proyecto hay que primero crear uno vacio y desde el botón derecho import y buscar la ruta del proyecto

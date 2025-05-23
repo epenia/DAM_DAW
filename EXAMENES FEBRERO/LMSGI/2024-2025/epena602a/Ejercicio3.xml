@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE facturas>
+<facturas>
+    <factura>
+        <numero_factura>001</numero_factura>
+        <nombre_cliente>MARIA ARANZAZU TEJERO SEGURA</nombre_cliente>
+        <fecha>03-02-2025</fecha>
+        <direccion>PASAJE IGLESIA, 0, 43027, RIBA-ROJA D'EBRE(TARRAGONA)</direccion>
+        <cif>F69709202</cif>
+        <lineas_factura>
+            <linea_factura>
+                <codigo_producto>C001</codigo_producto>
+                <cantidad>2</cantidad>
+                <descripcion>Descripción del primero producto CASA 001 = C001</descripcion>
+                <precio unidad="euro">200</precio>
+                <precio_linea unidad="euro">400</precio_linea>
+            </linea_factura>
+            <linea_factura>
+                <codigo_producto>C002</codigo_producto>
+                <cantidad>1</cantidad>
+                <descripcion>Descripción del primero producto CASA 002 = C002</descripcion>
+                <precio unidad="euro">150</precio>
+                <precio_linea unidad="euro">150</precio_linea>
+            </linea_factura>
+        </lineas_factura>
+    </factura>
+
+    
+    <factura>
+        <numero_factura>002</numero_factura>
+        <nombre_cliente>VIRGUS SA</nombre_cliente>
+        <fecha>04-02-2025</fecha>
+        <direccion>PASSEIG MAYOR, 48, 23548, ALCALÁ LA REAL(JAÉN)</direccion>
+        <cif>P5493558J</cif>
+        <lineas_factura>
+            <linea_factura>
+                <codigo_producto>B003</codigo_producto>
+                <cantidad>8</cantidad>
+                <descripcion>Producto para aislar fachadas de edificios con movimiento sismico</descripcion>
+                <precio unidad="euro">700</precio>
+                <precio_linea unidad="euro">5600</precio_linea>
+            </linea_factura>
+            <linea_factura>
+                <codigo_producto>H002</codigo_producto>
+                <cantidad>10</cantidad>
+                <descripcion>Mortero autonivelante C2 para zonas frias</descripcion>
+                <precio unidad="euro">18,43</precio>
+                <precio_linea unidad="euro">183,40</precio_linea>
+            </linea_factura>
+        </lineas_factura>
+    </factura>
+</facturas>

@@ -1,0 +1,1 @@
+ALTER TABLE usuarios RENAME COLUMN fecha_registro TO fecha_creacion;

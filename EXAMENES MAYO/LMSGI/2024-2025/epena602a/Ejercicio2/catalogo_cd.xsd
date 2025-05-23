@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definición del elemento raíz -->
+    <xs:element name="CATALOGO">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="CD" type="CDTipo" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Tipo para los CD -->
+    <xs:complexType name="CDTipo">
+        <xs:sequence>
+            <xs:element name="TITULO" type="xs:string" />
+            <xs:element name="ARTISTA" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="PAIS" type="xs:string"  minOccurs="0" maxOccurs="1"/>
+            <xs:element name="DISCOGRAFICA" type="xs:string" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="PRECIO" type="PRECIOTipo" minOccurs="0" />
+            <xs:element name="AÑO" type="ANIOTipo" />
+            <xs:element name="CODIGO" type="CODIGOTipo" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Tipo para el PRECIO -->
+    <xs:complexType name="PRECIOTipo">
+        <xs:simpleContent>
+            <xs:extension base="xs:decimal">
+                <xs:attribute name="MONEDA" use="optional" default="DOLAR">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="DOLAR" />
+                            <xs:enumeration value="LIBRA" />
+                            <xs:enumeration value="EURO" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+    <!-- Tipo para el CODIGO -->
+    <xs:simpleType name="CODIGOTipo">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[0-9]{6}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+
+    <!-- Tipo para el año con restricción -->
+    <xs:simpleType name="ANIOTipo">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="1900" />
+            <xs:maxInclusive value="2025" />
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

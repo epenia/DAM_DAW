@@ -1,0 +1,2 @@
+RENAME amigos TO relaciones;
+

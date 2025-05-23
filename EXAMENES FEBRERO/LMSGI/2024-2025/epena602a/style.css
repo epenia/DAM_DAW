@@ -1,0 +1,115 @@
+body {
+    background-color: lightgreen;
+    text-align: justify;
+}
+
+p {
+    font-family: Tahoma;
+    font-size: 1.25rem;    
+}
+
+header{
+    display: flex;
+    gap: 60px;
+    max-width: 900px;
+    margin: auto;
+    align-items: start;
+    justify-content: center;
+}
+
+header h1,
+header h2 {
+    font-family: Tahoma;
+}
+
+header h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+#titulo {
+    border-radius: 30px;
+    border: 8px white solid;
+}
+#titulo > legend {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+#titulo > h1 {
+    color: white;
+    text-shadow: 3px 3px 5px black;
+    font-size: 60px;
+    margin: 0;
+    text-align: center;
+}
+
+#logo {
+    width: 400px;
+    background-image: url('images/Logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#portada #image {
+    width: 180px;
+    height: auto;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px green solid;
+    box-shadow: -3px 3px 5px black;
+    float: right;
+    margin: 10px 0px 10px 10px;
+}
+
+#link-reparto {
+    padding: 4px;
+    background-color: green;
+    border: 1px white solid;
+    color: white;
+    text-decoration: none;
+}
+
+#link-reparto:hover {
+    text-decoration: underline;
+}
+
+#reparto {
+    max-width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#reparto > header > a{
+    width: 30%;
+    margin: auto;
+}
+
+#reparto > header img {
+    width: 100%;
+    height: auto;
+    box-shadow: 5px 5px 5px red;
+    transition: .2s;
+    border-radius: 6px;
+}
+
+#reparto > header > a:hover img {
+    box-shadow: 5px 5px 5px black;
+}
+
+#reparto ul.lista {
+    list-style: none;
+    padding: 10px;
+    display: grid;
+    gap: 0px 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    border: 2px green dotted;
+}
+
+footer {
+    text-align: center;
+}
+
