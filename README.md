@@ -13,6 +13,9 @@ Este repositorio está diseñado para ser un punto central donde podrás:
 
 ## 🚀 ¿Cómo empezar a colaborar?
 
+Tienes 2 opciones para colaborar, usando Git desde tu pc o utilizando GitHub.
+
+Opción A. Usando tu PC.
 1.  **Clona este repositorio:**
     ```bash
     git clone [https://github.com/FPDRioja/DAM_DAW.git](https://github.com/FPDRioja/DAM_DAW.git)
@@ -25,6 +28,14 @@ Este repositorio está diseñado para ser un punto central donde podrás:
 4.  **Haz commits** de tus progresos con mensajes claros.
 5.  **Sube tus cambios** a tu rama remota.
 6.  **Crea un Pull Request** para que tus contribuciones puedan ser revisadas e incorporadas al repositorio principal.
+
+### Opción B:
+
+Si trabajas desde GitHub puedes hacer lo siguiente.
+1. **Realiza un Fork del repositorio.**
+2. **Modifica el contenido de tu repositorio, subiendo archivos, creando carpetas o lo que creas conveniente**
+3. **Haz los commits en tu proyecto, explicando los cambios que has realizado**
+4. **Crea un Pull Request** para que tus contribuciones puedan ser revisadas e incorporadas
 
 ---
 
