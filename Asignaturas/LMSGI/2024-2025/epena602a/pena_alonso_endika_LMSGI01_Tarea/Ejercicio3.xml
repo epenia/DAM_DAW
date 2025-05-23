@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE recetas>
+<recetas>
+    <receta>
+        <nombre>Tortilla de Patata</nombre>
+        <comensales>4</comensales>
+        <ingredientes>
+            <ingrediente>
+                <nombre>Cebolla</nombre>
+                <cantidad>500g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Patatas</nombre>
+                <cantidad>1kg</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Huevos</nombre>
+                <cantidad>6 unidades</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Aceite de oliva</nombre>
+                <cantidad>500ml</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre>Sal</nombre>
+                <cantidad />
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso orden="1">Lavar, pelar y partir las cebollas en rodajas finas.</paso>
+            <paso orden="2">Lavar, pelar y partir las patatas en rodajas finas.</paso>
+            <paso orden="3">Poner las patatas y la cebolla en una sartén y cubrirlas con aceite.</paso>
+            <paso orden="4">Cocinarlas a fuego medio hasta que se doren las patatas.</paso>
+            <paso orden="5">Batir los huevos y añadir las patatas y la cebolla, luego salarlas.</paso>
+            <paso orden="6">Colocar la mezcla en la sartén y, con la ayuda de un plato, darle la vuelta cuando esté dorada.</paso>
+        </preparacion>
+        <tiempo_preparacion>30 minutos</tiempo_preparacion>
+    </receta>
+</recetas>

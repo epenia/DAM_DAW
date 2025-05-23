@@ -1,0 +1,18 @@
+<!ELEMENT Discoteca (disco+)>
+
+<!ELEMENT disco (soporte, titulo, artista, cancion+, sello*, año?)>
+<!ATTLIST disco
+    id ID #REQUIRED
+    género (Rock | Pop | Soul) #IMPLIED>
+
+<!ELEMENT soporte (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+
+<!ELEMENT artista (#PCDATA)>
+<!ATTLIST artista nacionalidad CDATA #REQUIRED>
+
+<!ELEMENT cancion (#PCDATA)>
+<!ATTLIST cancion tiempo CDATA #REQUIRED>
+
+<!ELEMENT sello (#PCDATA)>
+<!ELEMENT año (#PCDATA)>

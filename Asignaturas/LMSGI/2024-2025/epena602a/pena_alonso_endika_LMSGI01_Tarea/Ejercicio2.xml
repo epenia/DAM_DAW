@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE reservas>
+<reservas>
+    <pasajero>
+        <codigo>r001</codigo>
+        <nombre>Luisa</nombre>
+        <apellidos>Santos García</apellidos>
+        <nif>12345678H</nif>
+        <telefono>666123456</telefono>
+        <email>lsgarcia@gmail.com</email>
+        <vuelo>
+            <aeropuerto_origen>Madrid - Barajas</aeropuerto_origen>
+            <aeropuerto_destino>Barcelona - El Prat</aeropuerto_destino>
+            <fecha>2024-09-21</fecha>
+            <hora>10:40</hora>
+        </vuelo>
+    </pasajero>
+
+    <pasajero>
+        <codigo>r002</codigo>
+        <nombre>María</nombre>
+        <apellidos>Fernández Gutiérrez</apellidos>
+        <nif>16965696L</nif>
+        <telefono>789654321</telefono>
+        <email>maria.fdezgtrrez@hotmail.com</email>
+        <vuelo>
+            <aeropuerto_origen />
+            <aeropuerto_destino />
+            <fecha />
+            <hora />
+            <!-- No hay información del vuelo -->
+        </vuelo>
+    </pasajero>
+
+    <pasajero>
+        <codigo>r003</codigo>
+        <nombre>José</nombre>
+        <apellidos>Grillo Ramos</apellidos>
+        <nif>98765432H</nif>
+        <telefono>656566555</telefono>
+        <email>jgrillor@gmail.com</email>
+        <vuelo>
+            <aeropuerto_origen>Bilbao</aeropuerto_origen>
+            <aeropuerto_destino>Málaga</aeropuerto_destino>
+            <fecha />
+            <hora />
+            <!-- No se especificó la fecha y hora del vuelo -->
+        </vuelo>
+    </pasajero>
+</reservas>

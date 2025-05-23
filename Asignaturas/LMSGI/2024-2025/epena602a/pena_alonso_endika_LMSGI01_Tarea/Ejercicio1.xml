@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE videoteca>
+<videoteca>
+    <video>
+        <codigo>V001</codigo>
+        <titulo>El Gran Escape</titulo>
+        <director>
+            <nombre>John</nombre>
+            <apellidos>Sturges</apellidos>
+        </director>
+        <productoras>
+            <productora>Walt Disney Pictures</productora>
+        </productoras>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <anio_estreno>1963</anio_estreno>
+        <tipos>
+            <tipo>Drama</tipo>
+        </tipos>
+    </video>
+    
+    <video>
+        <codigo>V002</codigo>
+        <titulo>La Vida es Bella</titulo>
+        <director>
+            <nombre>Roberto</nombre>
+            <apellidos>Benigni</apellidos>
+        </director>
+        <productoras>
+            <productora>Cecchi Gori Group</productora>
+            <productora>Melampo Cinematografica</productora>
+        </productoras>
+        <nacionalidad>Italia</nacionalidad>
+        <anio_estreno>1997</anio_estreno>
+        <tipos>
+            <tipo>Comedia</tipo>
+            <tipo>Drama</tipo>
+        </tipos>
+    </video>
+    
+    <video>
+        <codigo>V003</codigo>
+        <titulo>Spirited Away</titulo>
+        <director>
+            <nombre>Hayao</nombre>
+            <apellidos>Miyazaki</apellidos>
+        </director>
+        <productoras>
+            <productora>Studio Ghibli</productora>
+        </productoras>
+        <nacionalidad>Japón</nacionalidad>
+        <anio_estreno>2001</anio_estreno>
+        <tipos>
+            <tipo>Animación</tipo>
+            <tipo>Fantasía</tipo>
+        </tipos>
+    </video>
+</videoteca>

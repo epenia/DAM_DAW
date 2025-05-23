@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Mundo friki
+    </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header class="container">
+        <h2> Bienvenido al registro de usuarios de nuestro foro </h2>
+    </header>
+    <main>
+            <form action="mailto:registro@mundofriki.com">
+                <section id="data" class="container">
+                    <fieldset>
+                        <legend>Datos personales</legend>
+                        <div>
+                            <label for="email">Usuario (email): </label>
+                            <input type="email" name="email" id="email" required>
+                        </div>
+                        <div>
+                            <label for="password">Contraseña: </label>
+                            <input type="password" name="password" id="password" required>
+                        </div>
+            
+                        <div>
+                            <label for="repeat_password">Repita Contraseña: </label>
+                            <input type="password" name="repeat_password" id="repeat_password" required>
+                        </div>
+            
+                        <div>
+                            <label for="nickname">Apodo o nickname: </label>
+                            <input type="text" name="nickname" id="nickname" required>
+                            &ensp;
+                            <label for="fecha">Fecha de nacimiento: </label>
+                            <input type="date" name="fecha" id="fecha" required>
+                        </div>
+                    </fieldset>
+                </section>
+                
+                <section id="information" class="container">
+                    <fieldset>
+                        <legend>Información complementaria</legend>
+            
+                        <div>
+                            <label for="email">Primero selecciona tu sistema operativo preferido: </label>
+                            <select name="os_preference" id="os_preference">
+                                <option value="linux">Linux</option>
+                                <option value="windows">Windows</option>
+                                <option value="macos">Mac OS</option>
+                                <option value="android">Android</option>
+                                <option value="ios">iOS</option>
+                            </select>
+                        </div>
+            
+                        <div>
+                            <label>Elige tu personaje preferido de Star Wars: </label>
+            
+                            <label for="leia"><input type="radio" name="personaje" id="leia" value="Leia Skywalker"> Leia
+                                Skywalker</label>
+            
+                            <label for="luke"><input type="radio" name="personaje" id="luke" value="Luke Skywalker"> Luke
+                                Skywalker</label>
+            
+                            <label for="anakin"><input type="radio" name="personaje" id="anakin" value="Anakin Skywalker"> Anakin
+                                Skywalker</label>
+            
+                            <label for="obiwan"><input type="radio" name="personaje" id="obiwan" value="Obi-Wan Kenobi"> Obi-Wan
+                                Kenobi</label>
+            
+                            <label for="jarjar"><input type="radio" name="personaje" id="jarjar" value="Jar Jar binks"> Jar Jar
+                                binks</label>
+            
+                            <label for="palpatine"><input type="radio" name="personaje" id="palpatine" value="Palpatine">
+                                Palpatine</label>
+            
+                            <label for="c3po"><input type="radio" name="personaje" id="c3po" value="C-3PO"> C-3PO</label>
+            
+                            <label for="r2d2"><input type="radio" name="personaje" id="r2d2" value="R2-D2"> R2-D2</label>
+            
+                        </div>
+            
+                        <div>
+                            <label>Sabemos que es dificil, pero solo debes elegir tres: </label>
+            
+                            <label for="starwars"><input type="checkbox" name="saga[starwars]"> Star Wars</label>
+            
+                            <label for="startrek"><input type="checkbox" name="saga[startrek]"> Star trek</label>
+            
+                            <label for="harrypotter"><input type="checkbox" name="saga[harrypotter]"> Harry Potter</label>
+            
+                            <label for="elseniordelosanillos"><input type="checkbox" name="saga[elseniordelosanillos]"> El señor de
+                                los anillos</label>
+            
+                            <label for="regresofuturo"><input type="checkbox" name="saga[regresofuturo]"> Regreso al futuro</label>
+            
+                            <label for="juegodetronos"><input type="checkbox" name="saga[juegodetronos]"> Juego de tronos</label>
+            
+                            <label for="matrix"><input type="checkbox" name="saga[matrix]"> Matrix</label>
+            
+                            <label for="marvel"><input type="checkbox" name="saga[marvel]"> Marvel</label>
+            
+                            <label for="bigbangtheory"><input type="checkbox" name="saga[bigbangtheory]"> The Big Bang
+                                Theort</label>
+            
+                        </div>
+            
+                        <div>
+                            <div>
+                                <label for="alegato">Escribe a continuación cualquier alegato que deberiamos tener en cuenta para
+                                    valorar tu candidatura: </label>
+                            </div>
+                            <div>
+                                <textarea name="alegato" id="" cols="60" rows="10"></textarea>
+                            </div>
+                        </div>
+                    </fieldset>
+                </section>
+        
+                <section id="buttons" class="container">
+                    <label for="privacy_policy">
+                        <input type="checkbox" name="conforme" id="privacy_policy" checked> 
+                        Estoy conforme con la política de privacidad de la página
+                    </label>
+                    
+                    <button type="submit">Enviar</button>
+                    <button type="reset">Limpiar</button>
+                </section>
+                <!-- <input type="submit" value="Enviar"> -->
+                <!-- <input type="reset" value="Limpiar"> -->
+            </form>
+        </section>
+    </main>
+    <footer>
+        <div class="container">            
+            <p>Pulse el boton de "Enviar" para solicitar la adminsión o el botón de "Limpiar" para borrar el formulario</p>
+        </div>
+    </footer>
+</body>
+
+</html>

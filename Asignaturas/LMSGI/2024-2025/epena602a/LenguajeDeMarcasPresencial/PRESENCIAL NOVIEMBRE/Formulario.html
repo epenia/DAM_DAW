@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Mundo friki
+    </title>
+</head>
+
+<body>
+    <h2> Bienvenido al registro de usuarios de nuestro foro </h2>
+    <form action="mailto:registro@mundofriki.com">
+        <fieldset>
+            <legend>Datos personales</legend>
+            <div>
+                <label for="email">Usuario (email): </label>
+                <input type="email" name="email" id="email" required>
+            </div>
+            <br />
+            <div>                
+                <label for="password">Contraseña: </label>
+                <input type="password" name="password" id="password" required>
+                &ensp;
+                <label for="repeat_password">Repita Contraseña: </label>
+                <input type="password" name="repeat_password" id="repeat_password" required>
+            </div>
+            <br />
+            <div>
+                <label for="nickname">Apodo o nickname: </label>
+                <input type="text" name="nickname" id="nickname" required>
+                &ensp;
+                <label for="fecha">Fecha de nacimiento: </label>
+                <input type="date" name="fecha" id="fecha" required>
+            </div>
+        </fieldset>
+        <br />
+        <fieldset>
+            <legend>Información complementaria</legend>
+            
+            <div>
+                <label for="os_preference">Primero selecciona tu sistema operativo preferido: </label>
+                <select name="os_preference" id="os_preference">
+                    <option value="linux">Linux</option>
+                    <option value="windows">Windows</option>
+                    <option value="macos">Mac OS</option>
+                    <option value="android">Android</option>
+                    <option value="ios">iOS</option>
+                </select>
+            </div>
+            <br />
+            <div>
+                <label>Elige tu personaje preferido de Star Wars: </label>
+                <br />
+                <label for="leia"><input type="radio" name="personaje" id="leia" value="Leia Skywalker"> Leia Skywalker</label>
+                <br />
+                <label for="luke"><input type="radio" name="personaje" id="luke" value="Luke Skywalker"> Luke Skywalker</label>
+                <br />
+                <label for="anakin"><input type="radio" name="personaje" id="anakin" value="Anakin Skywalker"> Anakin Skywalker</label>
+                <br />
+                <label for="obiwan"><input type="radio" name="personaje" id="obiwan" value="Obi-Wan Kenobi"> Obi-Wan Kenobi</label>
+                <br />
+                <label for="jarjar"><input type="radio" name="personaje" id="jarjar" value="Jar Jar binks"> Jar Jar binks</label>
+                <br />
+                <label for="palpatine"><input type="radio" name="personaje" id="palpatine" value="Palpatine"> Palpatine</label>
+                <br />
+                <label for="c3po"><input type="radio" name="personaje" id="c3po" value="C-3PO"> C-3PO</label>
+                <br />
+                <label for="r2d2"><input type="radio" name="personaje" id="r2d2" value="R2-D2"> R2-D2</label>
+                <br />
+            </div>
+            <br />
+            <div>
+                <label>Sabemos que es dificil, pero solo debes elegir tres: </label>
+                <br />
+                <label for="starwars"><input type="checkbox" name="saga[starwars]"> Star Wars</label>
+                <br />
+                <label for="startrek"><input type="checkbox" name="saga[startrek]"> Star trek</label>
+                <br />
+                <label for="harrypotter"><input type="checkbox" name="saga[harrypotter]"> Harry Potter</label>
+                <br />
+                <label for="elseniordelosanillos"><input type="checkbox" name="saga[elseniordelosanillos]"> El señor de los anillos</label>
+                <br />
+                <label for="regresofuturo"><input type="checkbox" name="saga[regresofuturo]"> Regreso al futuro</label>
+                <br />
+                <label for="juegodetronos"><input type="checkbox" name="saga[juegodetronos]"> Juego de tronos</label>
+                <br />
+                <label for="matrix"><input type="checkbox" name="saga[matrix]"> Matrix</label>
+                <br />
+                <label for="marvel"><input type="checkbox" name="saga[marvel]"> Marvel</label>
+                <br />
+                <label for="bigbangtheory"><input type="checkbox" name="saga[bigbangtheory]"> The Big Bang Theort</label>
+                <br />
+            </div>
+            <br />
+            <div>
+                <div>
+                    <label for="alegato">Escribe a continuación cualquier alegato que deberiamos tener en cuenta para valorar tu candidatura: </label>     
+                </div>     
+                <div>
+                    <textarea name="alegato" id="" cols="60" rows="10"></textarea>
+                </div>      
+            </div>
+        </fieldset>
+        <br />
+        <label for="privacy_policy">
+            <input type="checkbox" name="conforme" id="privacy_policy" checked> Estoy conforme con la política de privacidad de la página
+        </label>     
+        <br />
+        <br />
+        <!-- <button type="submit">Enviar</button> -->
+        <!-- <button type="reset">Limpiar</button> -->
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpiar">
+    </form>
+    <p>Pulse el boton de "Enviar" para solicitar la admisión o el botón de "Limpiar" para borrar el formulario</p>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* body{
+    display: grid;
+    gap: 30px;
+} */
+
+fieldset {
+    padding: 10px;
+}
+
+.container {
+    max-width: 1280px;
+    margin: auto;
+    padding: 0 10px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+form.container {
+    display: grid;
+    gap: 20px;
+}
+
+form fieldset {
+    background-color: #cccccc;
+}
+
+footer p {
+    padding: 10px 0px;
+    text-align: center;
+}

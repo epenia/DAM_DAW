@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Definición del elemento raíz -->
+    <xs:element name="Discoteca">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="disco" type="DiscoType" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Tipo para los discos -->
+    <xs:complexType name="DiscoType">
+        <xs:sequence>
+            <xs:element name="soporte" type="SoporteType" />
+            <xs:element name="titulo" type="xs:string" />
+            <xs:element name="artista" type="ArtistaType" />
+            <xs:element name="cancion" type="CancionType" maxOccurs="unbounded" />
+            <xs:element name="sello" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+            <xs:element name="año" type="AnyoType" minOccurs="0" />
+        </xs:sequence>
+        <xs:attribute name="id" type="IDType" use="required" />
+        <xs:attribute name="género">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="Rock" />
+                    <xs:enumeration value="Pop" />
+                    <xs:enumeration value="Soul" />
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:complexType>
+
+    <!-- Tipo para el artista -->
+    <xs:complexType name="ArtistaType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="nacionalidad" type="xs:string" use="required" />
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <!-- Tipo para la canción -->
+    <xs:complexType name="CancionType">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="tiempo" type="xs:integer" use="required" />
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+
+    <!-- Tipo para el ID del disco -->
+    <xs:simpleType name="IDType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[A-Z][0-9]{3}" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Tipo para el soporte (CD, Vinilo o Cinta) -->
+    <xs:simpleType name="SoporteType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="CD" />
+            <xs:enumeration value="Vinilo" />
+            <xs:enumeration value="Cinta" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Tipo para el año con restricción -->
+    <xs:simpleType name="AnyoType">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="1900" />
+            <xs:maxInclusive value="2025" />
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>
