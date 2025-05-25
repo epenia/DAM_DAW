@@ -39,6 +39,63 @@ Si trabajas desde GitHub puedes hacer lo siguiente.
 
 ---
 
+## ¿Cómo está organizado el GitHub?
+
+⚠️ El GitHub está organizado por asignaturas, en la carpeta General se añaden recursos o material que pueda ayudar a estudiar, comprender... la asignatura.
+
+> [!IMPORTANT]
+> si esa asignatura no tiene material aún, crea en tu repositorio una carpeta con el nombre "General" y añade ahí el material que creas oportuno y posteriormente sincroniza el GitHub.
+
+Para añadir material de las tareas creado por tí es tan sencillo como agregarlo al año del curso y crear una carpeta con tu nick o algo que te identifique, 
+
+> [!NOTE]
+> Ej: 2024-2025/epena602a
+
+para que sea identificable por el resto de compañeros y asi poder comparar unas tareas con otras.
+
+---
+
+
+
+## INFORMACIÓN SOBRE LAS ASIGNAGURAS 
+
+SI - Sistemas informáticos
+
+BD - Bases de datos
+
+PROG - Programación
+
+LMSGI - Lenguajes de marcas y sistemas de gestión de información
+
+ED - Entornos de desarrollo
+
+AD - Acceso a datos
+
+DI - Desarrollo de Interfaces
+
+PMYDM - Programación multimedia y dispositivos móviles.
+
+PSP - Programación de servicios y procesos
+
+SGE - Sistemas de gestión empresarial
+
+DASP - Digitalización aplicada a los sectores productivos
+
+DWEC - Desarrollo web en entorno cliente
+
+DWES - Desarrollo web en entorno servidor
+
+DIW - Desarrollo de interfaces web
+
+DAC - Despliegue de aplicaciones con contenedores
+
+DASP - Digitalización aplicada a los sectores productivos
+
+> [!NOTE]
+> Además se ha añadido una carpeta por si queréis compartir vuestros proyectos fin de Curso.
+
+
+
 ## 🤝 Contribuye y Colabora
 
 Tu participación es clave para enriquecer este recurso. Anímate a:
