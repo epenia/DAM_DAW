@@ -52,7 +52,7 @@ Para añadir material de las tareas creado por tí es tan sencillo como agregarl
 
 para que sea identificable por el resto de compañeros y asi poder comparar unas tareas con otras.
 
-
+---
 
 
 
