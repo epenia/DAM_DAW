@@ -70,7 +70,7 @@ DWES - Desarrollo web en entorno servidor
 DIW - Desarrollo de interfaces web
 
 > [!NOTE]
-> Además se ha añadido una carpeta por si queréis compartir vuestros proyectos find de Curso.
+> Además se ha añadido una carpeta por si queréis compartir vuestros proyectos fin de Curso.
 
 
 
