@@ -42,18 +42,31 @@ Si trabajas desde GitHub puedes hacer lo siguiente.
 ## INFORMACIÓN SOBRE LAS ASIGNAGURAS 
 
 SI - Sistemas informáticos
+
 BD - Bases de datos
+
 PROG - Programación
+
 LMSGI - Lenguajes de marcas y sistemas de gestión de información
+
 ED - Entornos de desarrollo
+
 AD - Acceso a datos
+
 DI - Desarrollo de Interfaces
+
 PMYDM - Programación multimedia y dispositivos móviles.
+
 PSP - Programación de servicios y procesos
+
 SGE - Sistemas de gestión empresarial
+
 DASP - Digitalización aplicada a los sectores productivos
+
 DWEC - Desarrollo web en entorno cliente
+
 DWES - Desarrollo web en entorno servidor
+
 DIW - Desarrollo de interfaces web
 
         ### Además se ha añadido una carpeta por si queréis compartir vuestros proyectos find de Curso.
