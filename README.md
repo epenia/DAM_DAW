@@ -66,7 +66,7 @@ para que sea identificable por el resto de compañeros y asi poder comparar unas
 - [ED - Entornos de desarrollo](./Asignaturas/ED/README.md)
 - [AD - Acceso a datos](./Asignaturas/AD/README.md)
 - [DI - Desarrollo de Interfaces](./Asignaturas/DI/README.md)
-- [PMYDM - Programación multimedia y dispositivos móviles](./Asignaturas/PMYDM/README.md)
+- [PMDM - Programación multimedia y dispositivos móviles](./Asignaturas/PMDM/README.md)
 - [PSP - Programación de servicios y procesos](./Asignaturas/PSP/README.md)
 - [SGE - Sistemas de gestión empresarial](./Asignaturas/SGE/README.md)
 - [DASP - Digitalización aplicada a los sectores productivos](./Asignaturas/DASP/README.md)
