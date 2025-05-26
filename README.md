@@ -94,3 +94,8 @@ Tu participación es clave para enriquecer este recurso. Anímate a:
 
 > [!TIP]
 > Si vas a subir una tarea para que el resto entienda añade el README.md con el enunciado de la tarea y el resto de compañeros la entiendan si no la han realizado.
+
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
