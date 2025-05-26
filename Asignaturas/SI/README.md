@@ -15,3 +15,9 @@ La asignatura de Sistemas Informáticos, tiene como finalidad proporcionar al al
 6. GNU/Linux. Procesos y Scripts.
 7. El directorio activo de Windows Server.
 8. Windows server. Almacenamiento. Escritorio Remoto.
+
+## RECURSOS
+
+### APRENDE COSAS DE LINUX
+
+- [Curso de Linux](https://youtu.be/-DHBjIE-ZGE?si=-aeqnEHjTq4HMvMS)

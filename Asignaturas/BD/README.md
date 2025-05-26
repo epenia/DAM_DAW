@@ -20,5 +20,10 @@ La asignatura de Bases de Datos tiene como objetivo dotar al alumnado de los con
 [Documentación de Oracle 1](https://docs.oracle.com/en/database/oracle/oracle-database/23/sqlrf/)
 [Documentación de Oracle 2](https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/index.html)
 
+### APRENDIENDO SQL
+- [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql/)
 
+### DONDE PRACTICAR
 
+- [https://leetcode.com](https://leetcode.com/problemset/database/)
+- [https://www.sqlzoo.net](https://www.sqlzoo.net/wiki/SQL_Tutorial)
