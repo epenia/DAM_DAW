@@ -103,7 +103,7 @@ Tu participación es clave para enriquecer este recurso. Anímate a:
 ## PROYECTOS DE LOS ALUMNOS.
 
 ⚠️ Añade tus proyectos, para que otros alumnos tomen ideas y puedan ver lo que se puede realizar una vez terminado el Módulo. 
-[Proyectos](./Asignaturas/Proyectos/README.md)
+[Proyectos](./Asignaturas/PROYECTOS/README.md)
 
 
 
