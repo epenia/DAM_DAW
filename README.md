@@ -106,3 +106,7 @@ Tu participación es clave para enriquecer este recurso. Anímate a:
 * **Participar en la discusión** sobre proyectos o problemas de programación.
 
 ¡Juntos haremos de este repositorio una herramienta de aprendizaje invaluable para toda la comunidad DAM y DAW de FPDRioja!
+
+
+> [!TIP]
+> Si vas a subir una tarea para que el resto entienda añade el README.md con el enunciado de la tarea y el resto de compañeros la entiendan si no la han realizado.
