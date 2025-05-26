@@ -89,8 +89,6 @@ DIW - Desarrollo de interfaces web
 
 DAC - Despliegue de aplicaciones con contenedores
 
-DASP - Digitalización aplicada a los sectores productivos
-
 > [!NOTE]
 > Además se ha añadido una carpeta por si queréis compartir vuestros proyectos fin de Curso.
 
