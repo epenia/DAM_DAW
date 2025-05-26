@@ -57,37 +57,23 @@ para que sea identificable por el resto de compañeros y asi poder comparar unas
 
 
 
-## INFORMACIÓN SOBRE LAS ASIGNAGURAS 
+## INFORMACIÓN SOBRE LAS 📂 ASIGNAGURAS 
 
-SI - Sistemas informáticos
-
-BD - Bases de datos
-
-PROG - Programación
-
-LMSGI - Lenguajes de marcas y sistemas de gestión de información
-
-ED - Entornos de desarrollo
-
-AD - Acceso a datos
-
-DI - Desarrollo de Interfaces
-
-PMYDM - Programación multimedia y dispositivos móviles.
-
-PSP - Programación de servicios y procesos
-
-SGE - Sistemas de gestión empresarial
-
-DASP - Digitalización aplicada a los sectores productivos
-
-DWEC - Desarrollo web en entorno cliente
-
-DWES - Desarrollo web en entorno servidor
-
-DIW - Desarrollo de interfaces web
-
-DAC - Despliegue de aplicaciones con contenedores
+- [SI - Sistemas informáticos](./Asignaturas/SI/README.md)
+- [BD - Bases de datos](./Asignaturas/BD/README.md)
+- [PROG - Programación](./Asignaturas/PROG/README.md)
+- [LMSGI - Lenguajes de marcas y sistemas de gestión de información](./Asignaturas/LMSGI/README.md)
+- [ED - Entornos de desarrollo](./Asignaturas/ED/README.md)
+- [AD - Acceso a datos](./Asignaturas/AD/README.md)
+- [DI - Desarrollo de Interfaces](./Asignaturas/DI/README.md)
+- [PMYDM - Programación multimedia y dispositivos móviles](./Asignaturas/PMYDM/README.md)
+- [PSP - Programación de servicios y procesos](./Asignaturas/PSP/README.md)
+- [SGE - Sistemas de gestión empresarial](./Asignaturas/SGE/README.md)
+- [DASP - Digitalización aplicada a los sectores productivos](./Asignaturas/DASP/README.md)
+- [DWEC - Desarrollo web en entorno cliente](./Asignaturas/DWEC/README.md)
+- [DWES - Desarrollo web en entorno servidor](./Asignaturas/DWES/README.md)
+- [DIW - Desarrollo de interfaces web](./Asignaturas/DIW/README.md)
+- [DAC - Despliegue de aplicaciones con contenedores](./Asignaturas/DAC/README.md)
 
 > [!NOTE]
 > Además se ha añadido una carpeta por si queréis compartir vuestros proyectos fin de Curso.
