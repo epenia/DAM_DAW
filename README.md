@@ -98,4 +98,4 @@ Tu participación es clave para enriquecer este recurso. Anímate a:
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 
-![GitHub Stars](https://img.shields.io/github/stars/DAM_DAW?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/FPDRioja/DAM_DAW?style=social)
