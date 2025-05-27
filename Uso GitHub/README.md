@@ -139,3 +139,4 @@ git push --tags
 
 [Sintaxis MarkDown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 
+[Video de Mouredev curso Git y GitHub](https://www.youtube.com/watch?v=3GymExBkKjE)
