@@ -66,7 +66,7 @@ para que sea identificable por el resto de compañeros y asi poder comparar unas
 - [ED - Entornos de desarrollo](./Asignaturas/ED/README.md)
 - [AD - Acceso a datos](./Asignaturas/AD/README.md)
 - [DI - Desarrollo de Interfaces](./Asignaturas/DI/README.md)
-- [PMYDM - Programación multimedia y dispositivos móviles](./Asignaturas/PMYDM/README.md)
+- [PMDM - Programación multimedia y dispositivos móviles](./Asignaturas/PMDM/README.md)
 - [PSP - Programación de servicios y procesos](./Asignaturas/PSP/README.md)
 - [SGE - Sistemas de gestión empresarial](./Asignaturas/SGE/README.md)
 - [DASP - Digitalización aplicada a los sectores productivos](./Asignaturas/DASP/README.md)
@@ -94,3 +94,17 @@ Tu participación es clave para enriquecer este recurso. Anímate a:
 
 > [!TIP]
 > Si vas a subir una tarea para que el resto entienda añade el README.md con el enunciado de la tarea y el resto de compañeros la entiendan si no la han realizado.
+
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) ![GitHub Repo stars](https://img.shields.io/github/stars/FPDRioja/DAM_DAW?style=social)
+
+
+---
+
+## PROYECTOS DE LOS ALUMNOS.
+
+⚠️ Añade tus proyectos, para que otros alumnos tomen ideas y puedan ver lo que se puede realizar una vez terminado el Módulo. 
+[Proyectos](./Asignaturas/PROYECTOS/README.md)
+
+
+
+
