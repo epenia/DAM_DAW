@@ -98,4 +98,13 @@ Tu participación es clave para enriquecer este recurso. Anímate a:
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) ![GitHub Repo stars](https://img.shields.io/github/stars/FPDRioja/DAM_DAW?style=social)
 
 
+---
+
+## PROYECTOS DE LOS ALUMNOS.
+
+⚠️ Añade tus proyectos, para que otros alumnos tomen ideas y puedan ver lo que se puede realizar una vez terminado el Módulo. 
+[Proyectos](./Asignaturas/PROYECTOS/README.md)
+
+
+
 
