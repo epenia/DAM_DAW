@@ -3,12 +3,13 @@
 Todos estos recursos son del curso 2024/2025, por lo que para cursos posteriores pueden variar los temas.
 
 ### UD1
-En la carpeta de la UD1 encontraras varios pdf.
+En la carpeta de la UD1 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD1)
 
--[introducción a los Sistemas Digitales y Analógicos](https://www.youtube.com/watch?v=eNxX8mHeQH4)
--[Sistemas de numeración](https://www.youtube.com/watch?v=eNxX8mHeQH4)
--[Ejemplos de conversiones](https://www.youtube.com/playlist?list=PL46-B5QR6sHmU_04lzN08BqxDF_pO2HtO)
--[ASCII, EBCDIC y UNICODE](http://ivettealvarez.wordpress.com/2007/06/06/conceptos-ebcdic-ascii-y-unicode/)
+
+- [introducción a los Sistemas Digitales y Analógicos](https://www.youtube.com/watch?v=eNxX8mHeQH4)
+- [Sistemas de numeración](https://www.youtube.com/watch?v=eNxX8mHeQH4)
+- [Ejemplos de conversiones](https://www.youtube.com/playlist?list=PL46-B5QR6sHmU_04lzN08BqxDF_pO2HtO)
+- [ASCII, EBCDIC y UNICODE](http://ivettealvarez.wordpress.com/2007/06/06/conceptos-ebcdic-ascii-y-unicode/)
 
 - [Programa Conversor binario/hexadecimal/decimal](https://www.calculadoraconversor.com/conversor-binario/)
 - [Conversor ASCII](http://www.branah.com/ascii-converter)
@@ -21,6 +22,8 @@ En la carpeta de la UD1 encontraras varios pdf.
 - [Biografia de Neumann](https://youtu.be/tI-wCLnPM98)
 
 ### UD2
+- En la carpeta de la UD2 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD2)
+- [¿Por qué hay 8 bits en una dirección de memoria?](https://aulavirtual-fpdrioja.larioja.org/mod/page/view.php?id=90858)
 - [¿¿Por qué tantas memorias??](https://aulavirtual-fpdrioja.larioja.org/mod/url/view.php?id=90859)
 - Placa Base y Conectores 
     - [Placa 1](https://www.cerebriti.com/juegos-de-tecnologia/placa-base-gigabyte-h410m-s2h-v2)
@@ -39,17 +42,17 @@ En la carpeta de la UD1 encontraras varios pdf.
 - En esta unidad no disponemos de recursos.
 
 ### UD4
-- En la carpeta de la UD4 encontraras varios pdf.
+- En la carpeta de la UD4 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD4)
 
 ### UD5 
-- En la carpeta de la UD5 encontraras varios pdf.
+- En la carpeta de la UD5 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD5)
 
 ### UD6
-- En la carpeta de la UD6 encontraras varios pdf.
+- En la carpeta de la UD6 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD6)
 - [Comandos nice y renice para modificar prioridad de los procesos](https://learning.lpi.org/es/learning-materials/101-500/103/103.6/103.6_01/)
 
 ### UD7
-- En la carpeta de la UD7 encontraras varios pdf.
+- En la carpeta de la UD7 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD7)
 
 ### UD8
-- En la carpeta de la UD8 encontraras varios pdf.
+- En la carpeta de la UD8 encontraras varios pdf. [Ir a la carpeta](apuntes_interes/UD8)
