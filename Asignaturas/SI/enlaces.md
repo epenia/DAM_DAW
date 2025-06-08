@@ -3,12 +3,12 @@
 Todos estos recursos son del curso 2024/2025, por lo que para cursos posteriores pueden variar los temas.
 
 ### UD1
-- En la carpeta de la UD1 encontraras varios pdf.
+En la carpeta de la UD1 encontraras varios pdf.
 
-- [introducción a los Sistemas Digitales y Analógicos](https://www.youtube.com/watch?v=eNxX8mHeQH4)
-- [Sistemas de numeración](https://www.youtube.com/watch?v=eNxX8mHeQH4)
-- [Ejemplos de conversiones](https://www.youtube.com/playlist?list=PL46-B5QR6sHmU_04lzN08BqxDF_pO2HtO)
-- [ASCII, EBCDIC y UNICODE](http://ivettealvarez.wordpress.com/2007/06/06/conceptos-ebcdic-ascii-y-unicode/)
+-[introducción a los Sistemas Digitales y Analógicos](https://www.youtube.com/watch?v=eNxX8mHeQH4)
+-[Sistemas de numeración](https://www.youtube.com/watch?v=eNxX8mHeQH4)
+-[Ejemplos de conversiones](https://www.youtube.com/playlist?list=PL46-B5QR6sHmU_04lzN08BqxDF_pO2HtO)
+-[ASCII, EBCDIC y UNICODE](http://ivettealvarez.wordpress.com/2007/06/06/conceptos-ebcdic-ascii-y-unicode/)
 
 - [Programa Conversor binario/hexadecimal/decimal](https://www.calculadoraconversor.com/conversor-binario/)
 - [Conversor ASCII](http://www.branah.com/ascii-converter)
