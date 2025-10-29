@@ -18,6 +18,10 @@ La asignatura de Sistemas Informáticos, tiene como finalidad proporcionar al al
 
 ## RECURSOS
 
+- UD1. 
+    Carpeta con recursos. Enlaces de interes.
+- UD2
+
 ### APRENDE COSAS DE LINUX
 
 - [Curso de Linux](https://youtu.be/-DHBjIE-ZGE?si=-aeqnEHjTq4HMvMS)
